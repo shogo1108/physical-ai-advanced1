@@ -1,0 +1,11 @@
+__pycache__/
+raw/
+data/
+outputs/
+ckpt/
+eval_results/
+video_out/
+logs/
+*.npz
+mujoco_menagerie/robotstudio_so101/feed_scene.xml
+mujoco_menagerie/robotstudio_so101/_scene_*.xml
